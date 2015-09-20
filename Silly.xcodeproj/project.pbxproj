@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		0D5D22091BADAF59003BAEDD /* Silly */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Silly; sourceTree = BUILT_PRODUCTS_DIR; };
-		0D5D220C1BADAF59003BAEDD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		0D5D220C1BADAF59003BAEDD /* main.c */ = {isa = PBXFileReference; indentWidth = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; tabWidth = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
