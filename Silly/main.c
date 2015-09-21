@@ -24,6 +24,7 @@ enum Token {
     tok_number = -5
 };
 
+// TODO: check for overflow
 static char IdentifierStr[64]; // Filled in if tok_identifier
 static double NumVal;             // Filled in if tok_number
 
